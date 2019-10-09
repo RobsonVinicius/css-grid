@@ -10,8 +10,7 @@
   grid-template-columns: auto;
 }
 
-.cabecalho {
-  background: #00cc99;
+.cabecalho {  
   grid-area: cabecalho;
   display: flex;
   align-items: center;  
@@ -26,7 +25,6 @@
 
 .rodape {
   background: #0099ff;
-  grid-area: rodape;
-  padding: 1rem;
+  grid-area: rodape;  
   padding: 1.5rem 2rem;
 }
