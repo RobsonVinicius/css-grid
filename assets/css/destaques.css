@@ -76,7 +76,8 @@
 }
 
 .destaques__categorias___item:hover {
-  background: #eeeded;    
+  transform: scale(1.03);
+  z-index: 1;
   transition: .5s;
 }
 
