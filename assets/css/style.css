@@ -24,7 +24,9 @@
 }
 
 .rodape {
-  background: #0099ff;
   grid-area: rodape;  
-  padding: 1.5rem 2rem;
+  background: #0099ff;
+  color: #fdfdfd;  
+  padding: 2rem 0;  
+  text-align: center;
 }

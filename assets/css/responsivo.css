@@ -63,9 +63,7 @@
   }
 
   .populares__card, .populares__card:last-child  {
-    width: calc(50% - 1rem);
-    margin-right: 1rem;    
-    margin-bottom: 3rem;
+    width: calc(50% - 1rem);    
   }
 }
 
