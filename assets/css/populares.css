@@ -31,10 +31,8 @@
   display: grid;
   grid-template-areas: 
     "card-imagem"
-    "card-corpo";
-  grid-template-rows: 200px auto;
-  grid-template-columns: 100%;
-  width: calc(20% - 1rem);
+    "card-corpo"; 
+  grid-template-columns: 100%; 
   margin-bottom: 3rem;
   margin-right: 1rem;
 }
