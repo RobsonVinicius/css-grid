@@ -20,7 +20,7 @@
   .populares__card, .populares__card:last-child  {
     width: 100%;
     grid-template-rows: 180px auto;
-  }
+  } 
   
 }
 
@@ -63,20 +63,34 @@
     flex-direction: row;
   }
 
-  .populares__card, .populares__card:last-child  {
+  .populares__card, .populares__card:last-child {
     width: calc(50% - 1rem);    
   }
+
+  .populares__card:nth-child(2) {
+    width: 50%;
+    margin-right: 0;
+  }  
 }
+
 
 @media screen and (min-width: 992px) {
   .populares__card, .populares__card:last-child {
     width: calc(33.33% - 1rem);
-    grid-template-rows: 170px auto;
+    grid-template-rows: 170px auto;    
   }
 }
 
 @media screen and (min-width: 1200px) {
-  .populares__card, .populares__card:last-child {
-    width: calc(20% - 1rem);        
+  .populares__card {
+    width: calc(20% - 1rem);       
   }
+  .populares__card:last-child {
+    width: 20%;
+  }
+  
+  .populares__card:nth-child(2) {
+    width: calc(20% - 1rem); 
+    margin-right: 1rem;
+  }   
 }
