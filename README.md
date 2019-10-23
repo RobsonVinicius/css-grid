@@ -8,7 +8,9 @@ Projeto criado com o objetivo de exercitar o CSS Grid
 
 <div align="center">
 
-![Desktop Version](https://raw.githubusercontent.com/RobsonVinicius/email-marketing-responsivo/master/thumbnail.png)
+![Desktop Version](https://raw.githubusercontent.com/RobsonVinicius/css-grid/master/assets/img/thumbnail.png)
+
+
 
 </div>
 
