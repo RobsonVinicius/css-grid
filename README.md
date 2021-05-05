@@ -1,9 +1,9 @@
-### CSS Grid
+# CSS Grid Site
 Projeto criado com o objetivo de exercitar o CSS Grid
-***
+
 <br>
 
-#### Versão Desktop
+### Versão Desktop
 ***
 
 <div align="center">
